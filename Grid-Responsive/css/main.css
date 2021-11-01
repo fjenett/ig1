@@ -5,6 +5,8 @@
 }
 
 #container div {
+    min-height: 200px;
+    
     background-color: blue;
     text-align: center;
 }
